@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJS--Pathfinding-Visualizer--Dijkstras-Algorithm/static/css/main.1f9109ad.css",
+    "main.js": "/ReactJS--Pathfinding-Visualizer--Dijkstras-Algorithm/static/js/main.2043f289.js",
+    "static/media/home.png": "/ReactJS--Pathfinding-Visualizer--Dijkstras-Algorithm/static/media/home.2612c219331388c0b89c.png",
+    "index.html": "/ReactJS--Pathfinding-Visualizer--Dijkstras-Algorithm/index.html",
+    "main.1f9109ad.css.map": "/ReactJS--Pathfinding-Visualizer--Dijkstras-Algorithm/static/css/main.1f9109ad.css.map",
+    "main.2043f289.js.map": "/ReactJS--Pathfinding-Visualizer--Dijkstras-Algorithm/static/js/main.2043f289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9109ad.css",
+    "static/js/main.2043f289.js"
+  ]
+}
