@@ -1,0 +1,43 @@
+.grid {
+	margin: 100px 0 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.buttonContainer {
+	width: 25%;
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	top: 10%;
+	margin-top: 3rem;
+}
+.startAlgo {
+	padding: 10px;
+	border-radius: 8px;
+	background-color: #a2a8d3;
+	font-weight: 600;
+	color: white;
+	outline: none;
+	border: none;
+	margin-bottom: 1rem;
+}
+.startAlgo:hover {
+	cursor: pointer;
+	border: 1px solid green;
+}
+.clearBoard {
+	padding: 10px;
+	border-radius: 8px;
+	background-color: #38598b;
+	font-weight: 600;
+	color: white;
+	outline: none;
+	border: none;
+	margin-bottom: 1rem;
+}
+.clearBoard:hover {
+	cursor: pointer;
+	border: 1px solid #ce7d84;
+}
